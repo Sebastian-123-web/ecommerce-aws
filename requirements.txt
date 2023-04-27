@@ -1,5 +1,6 @@
 django==3.2
-mysqlclient
+psycopg2
+#mysqlclient
 Pillow
 django-ckeditor
 django-admin-tailwind
